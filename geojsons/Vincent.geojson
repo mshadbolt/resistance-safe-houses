@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Vincent the Dog",
+        "Address": "348 Drummond St, Carlton, VIC",
+        "Review": "Smashed avo and poached egg, delicious! 4.5 stars",
+        "Contributor": "Marion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9690681695938,
+          -37.79775931337528
+        ]
+      }
+    }
+  ]
+}
